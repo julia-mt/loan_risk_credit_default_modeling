@@ -5,6 +5,8 @@
 - Apply PCA + K-Means to identify borrower clusters with similar risk profiles  
 - Analyze mispricing patterns across loan grades
 
+Note: full notebook with outputs is [available here](https://nbviewer.org/github/julia-mt/loan_risk_credit_default_modeling/blob/main/loan_risk_credit_default.html)
+
 ## Key Findings:
 
 ### PCA + K-Means clustering revealed 3 main borrower risk groups with distinct characteristics:
