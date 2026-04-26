@@ -5,7 +5,6 @@
 - Apply PCA + K-Means to identify borrower clusters with similar risk profiles  
 - Analyze mispricing patterns across loan grades
 
-#### Please note: full notebook with outputs is available [here](https://nbviewer.org/github/julia-mt/loan_risk_credit_default_modeling/blob/main/loan_risk_credit_default.html)
 ## Exploratory Analysis
 
 - By 2012 most of loans are funded, and thus held, by investors. While investors are funding most of the loans, Lending Club commits to hold only minimal amount of loans on their books. 
